@@ -1,0 +1,56 @@
+
+
+
+body{
+  background: #404040;
+  font-family: 'Avant Garde', Avantgarde, 'Century Gothic', CenturyGothic, AppleGothic, sans-serif;
+  color: white;
+  margin: 10px 5%;
+  font-size: 75%;
+}
+
+a{
+    color: white;
+    text-decoration: none;
+}
+
+footer,
+header {
+    background: #303030;
+    text-align: center;
+}
+
+h1 {
+    font-size: 300%;
+    text-align: center;
+    text-transform: uppercase;
+    margin: 20px;
+}
+
+h2 {
+    margin: 10px;
+    font-size: 100%;
+}
+
+h1,
+h2 span,
+#what-we-do h3
+ {
+    color: red;
+}
+
+header li {
+    display: inline;
+}
+
+#product-guiding{
+    float: left; width: 30%; margin: 10px}
+
+#what-we-do p {
+    background: grey;
+}
+#how-we-work h2 {
+    background: grey;
+}
+#embedded-systems{ float: right; width: 30%; margin: 10px}
+#mobile-and-web-apps{ display: inline-block; width: 30%; margin: 10px}
